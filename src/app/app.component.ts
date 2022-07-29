@@ -1,9 +1,5 @@
 import { Component } from '@angular/core';
 import { NgbConfig } from '@ng-bootstrap/ng-bootstrap';
-import {
-  FooterComponent
-} from './shared/layout'
-
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
